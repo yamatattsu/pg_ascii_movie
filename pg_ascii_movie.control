@@ -1,0 +1,5 @@
+comment = 'ascii movie player for PostgreSQL'
+default_version = '1.0'
+module_pathname = '$libdir/pg_ascii_movie'
+requires = 'file_fdw'
+relocatable = true
