@@ -3,7 +3,7 @@ pg_ascii_movie
 
 pg_ascii_movie is a PostgreSQL extension to watch ascii movies.
 
-This was created by Tatsuro Yamada for [Advent calendar 2021](https://).
+This was created by Tatsuro Yamada for [Advent calendar 2021](https://qiita.com/yamatattsu/private/06c797a032b633a9fafa).
 
 Contents
 ========
@@ -25,6 +25,7 @@ Run the following command on psql after Installation.
 	```
 
 Screen shot:
+
 <img src="screenshots/demo.gif">
 
 	
@@ -37,9 +38,9 @@ Screen shot:
 3 Installation
 ==============
 
-1. Build and Install
+1. Clone the repository and Install
 	```
-	$ git clone
+	$ git clone https://github.com/yamatattsu/pg_ascii_movie
 	$ cd pg_ascii_movie
 	$ make -s install
 	```
